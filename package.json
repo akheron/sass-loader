@@ -22,9 +22,6 @@
   },
   "author": "J. Tangelder",
   "license": "MIT",
-  "peerDependencies": {
-    "node-sass": "^3.0.0-alpha.0"
-  },
   "dependencies": {
     "loader-utils": "^0.2.5"
   },
